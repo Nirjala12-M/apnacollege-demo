@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author : Nirjala Sahadev Mane
+Author : Nirjala Sahadev Mane(Apna College)
